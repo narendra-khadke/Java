@@ -9,7 +9,7 @@ public class Student1 {
 		student.setId(1234);
 		student.setName("Narendra");
 		student.setAge(20);
-		      
+		//Displaying the information
 		System.out.println("Student Data");
 		System.out.println("Student Id: " + student.getId());
 		System.out.println("Student Name: " + student.getName());
