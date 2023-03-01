@@ -4,6 +4,7 @@ class Student {
 	private int id;
 	private String name;
 	private int age;
+	// Create Getter and Setter for if name and age
 	public int getId() {
 		return id;
 		}
