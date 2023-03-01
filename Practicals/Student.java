@@ -1,6 +1,7 @@
 package CoreJava;
 
 class Student {
+	//Fields 
 	private int id;
 	private String name;
 	private int age;
